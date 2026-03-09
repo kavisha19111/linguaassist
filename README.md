@@ -1,4 +1,4 @@
-Here you go — paste this as your README:
+
 
 ---
 
